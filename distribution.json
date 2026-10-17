@@ -613,13 +613,13 @@
           }
         },
         {
-          "id": "generated.forgemod:melody_fabric_1.0.4_mc_1.20.1:1.20.4@jar",
-          "name": "Melody_fabric_1.0.4_MC_1.20.1",
+          "id": "de.keksuccino:melody:1.0.2@jar",
+          "name": "Melody",
           "type": "ForgeMod",
           "artifact": {
-            "size": 39696,
-            "url": "https://raw.githubusercontent.com/iHaroldOlc/JUEGISAFIO/main/servers/dedsafio-1.20.1/forgemods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
-            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
+            "size": 37178,
+            "url": "https://raw.githubusercontent.com/iHaroldOlc/JUEGISAFIO/main/servers/dedsafio-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
         {
