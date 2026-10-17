@@ -523,6 +523,16 @@
           }
         },
         {
+          "id": "de.keksuccino:fancymenu:3.9.14@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26191988,
+            "url": "https://raw.githubusercontent.com/iHaroldOlc/JUEGISAFIO/main/servers/dedsafio-1.20.1/forgemods/required/fancymenu_forge_3.9.14_MC_1.20.1.jar",
+            "MD5": "4a27ef9d0e6b8cc9c32183cf843b99ef"
+          }
+        },
+        {
           "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
           "name": "Ferrite Core",
           "type": "ForgeMod",
@@ -583,6 +593,16 @@
           }
         },
         {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://raw.githubusercontent.com/iHaroldOlc/JUEGISAFIO/main/servers/dedsafio-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
           "id": "generated.forgemod:kotlinforforge:4.12.0-all@jar",
           "name": "Kotlinforforge",
           "type": "ForgeMod",
@@ -590,6 +610,16 @@
             "size": 7442998,
             "url": "https://raw.githubusercontent.com/iHaroldOlc/JUEGISAFIO/main/servers/dedsafio-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
             "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
+          }
+        },
+        {
+          "id": "generated.forgemod:melody_fabric_1.0.4_mc_1.20.1:1.20.4@jar",
+          "name": "Melody_fabric_1.0.4_MC_1.20.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39696,
+            "url": "https://raw.githubusercontent.com/iHaroldOlc/JUEGISAFIO/main/servers/dedsafio-1.20.1/forgemods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
         {
